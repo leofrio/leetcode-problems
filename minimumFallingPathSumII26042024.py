@@ -87,5 +87,5 @@ case4 =Solution().minFallingPathSum(grid=[[-73,61,43,-48,-36],[3,30,27,57,10],[9
 print(f'case 1 is {case1} ')
 print(f'case 2 is {case2} ') 
 print(f'case 3 is {case3} ')  
-print(f'case 4 is {case4}')
+print(f'case 4 is {case4} ')
 
